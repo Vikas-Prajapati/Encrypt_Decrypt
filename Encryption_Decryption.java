@@ -91,3 +91,7 @@ public class Encryption_Decryption {
 
 //Sample input-- java Main -mode enc -key 5 -data "Welcome to hyperskill!"
 //Sample output-- \jqhtrj%yt%m~ujwxpnqq&
+
+
+//java Main -key 5 -data "\jqhtrj%yt%m~ujwxpnqq&" -mode dec
+//Welcome to hyperskill!
